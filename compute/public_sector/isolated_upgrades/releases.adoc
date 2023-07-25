@@ -1,5 +1,25 @@
 == Releases
 
+=== 30.03.122 release
+
+Downloads for the 30.03.122 release.
+
+[cols="2,3", options="header"]
+|===
+|Download
+|SHA256 Digest / imageID
+
+|https://cdn.twistlock.com/isolated_upgrades/v30_02_123/v30_02_123_isolated_update.tar.gz[v30_03_122_isolated_update.tar.gz]
+|sha256:552f167c250e7bba0a1c7402951a9b240b269c88c7ac55a0c4ee109cdc5676c3
+
+|https://registry.twistlock.com/twistlock/console:console_30_03_122[console:console_30_03_122]
+|sha256:8c87a428f829084c0fb6ab9ce0d9ce58a6455f77c42afa3bce5b0ceb8250acd3
+
+|https://registry.twistlock.com/twistlock/defender:defender_30_03_122[defender:defender_30_03_122]
+|sha256:52dc0fcb7bd91adde2104d0bec50a8d6106b10d30b6f8ba43e9f076092f6ddb2
+
+|===
+
 === 30.02.123 release
 
 Downloads for the 30.02.123 release.
